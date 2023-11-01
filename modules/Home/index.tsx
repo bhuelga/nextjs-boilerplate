@@ -1,7 +1,7 @@
 import { COLORS } from "@/styles/colors";
 import React from "react";
 import styled from "styled-components";
-import { Layout } from "../Layout";
+import { Layout } from "../../components/Layout";
 
 export const Home = ({}: HomeProps) => {
   return (
