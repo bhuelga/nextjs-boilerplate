@@ -1,4 +1,3 @@
-import { COLORS } from "@/styles/colors";
 import React from "react";
 import styled from "styled-components";
 import { Layout } from "../../components/Layout";
@@ -13,9 +12,6 @@ export const Home = ({}: HomeProps) => {
   );
 };
 
-Home.Wrapper = styled.div`
-  margin: auto;
-  color: ${COLORS.primary};
-`;
+Home.Wrapper = styled.div``;
 
 interface HomeProps {}
