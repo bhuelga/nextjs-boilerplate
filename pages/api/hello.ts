@@ -10,5 +10,5 @@ export default function hello(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  res.status(200).json({ message: "Hello Qualia!", error: null })
+  res.status(200).json({ message: "Hello World!", error: null })
 }

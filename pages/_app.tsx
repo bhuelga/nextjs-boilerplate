@@ -7,8 +7,8 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <App.Wrapper>
       <Head>
-        <title>Qualia Interview</title>
-        <meta name="description" content="Qualia Interview 1" />
+        <title>App</title>
+        <meta name="description" content="App" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

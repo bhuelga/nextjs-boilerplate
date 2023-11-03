@@ -5,7 +5,7 @@ export const Layout = ({ children }: LayoutProps) => {
   return (
     <Layout.Wrapper>
       <Layout.Header>
-        <h1>Qualia Interview</h1>
+        <h1>App</h1>
       </Layout.Header>
       <Layout.Main>{children}</Layout.Main>
     </Layout.Wrapper>
